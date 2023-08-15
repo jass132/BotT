@@ -57,6 +57,3 @@ youtube_search_python
 pyshorteners
 faker
 pyfiglet
-Flask==2.2.2
-gunicorn==23.2.1
-aiohttp==3.8.1
